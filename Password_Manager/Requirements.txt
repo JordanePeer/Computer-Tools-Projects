@@ -1,0 +1,5 @@
+for this project you need to go to your terminal
+and intall the following installations:
+
+1. Tkinter  - pip install tk
+2. Sqlite3  - pip install sqlite3
